@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I’m Yousra 👋
 
-<!--
-**YousraShleibik/YousraShleibik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a PhD student in Computer Science at the University of Denver, working at the intersection of **Human-Centered AI, HCI/HRI, computer vision, accessibility, and interactive machine learning**.
 
-Here are some ideas to get you started:
+My research explores how AI systems can better support people through attention-aware interfaces, preference learning, augmented reality, and human-robot interaction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+
+- Human-Centered AI
+- Human-Computer Interaction
+- Human-Robot Interaction
+- AI for Accessibility
+- Computer Vision
+- Interactive Machine Learning
+- Attention Support and Gaze-Aware Interfaces
+
+## 🌱 Current Focus
+
+I’m currently exploring research directions around personalized attention support, visual AI systems, and human-aligned preference learning.
+
+## 🌐 Portfolio
+
+You can find my personal website here:
+
+[yousrashleibik.github.io](https://yousrashleibik.github.io)
+
+## ✨ Beyond Research
+
+I enjoy traveling, discovering cozy cafés, creating visual stories, watching anime, and finding peaceful outdoor places.
